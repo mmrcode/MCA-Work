@@ -1,0 +1,7 @@
+Custom Property
+
+In CSS, you can declare a custom property using two dashes as a prefix for the property name, or by using the @property at-rule.
+
+Using a prefix of two dashes (-)
+
+A custom property prefixed with two dashes begins with, followed by the property name (e.g., -my-property), and a property value that can be any valid CSS value. Like any other property, this is written inside a ruleset
